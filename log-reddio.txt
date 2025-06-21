@@ -518,3 +518,7 @@ Error:
 Error:
 [09:50:03 | 20-06-2025] Transfer Task failed for 0xF9963FEe6C31B06bFf885E692e3aB281DeA13CD5: Request failed with status code 400
 [09:50:06 | 20-06-2025] Bridge Task failed for 0xF9963FEe6C31B06bFf885E692e3aB281DeA13CD5: Request failed with status code 400
+Error:
+Error:
+[09:45:36 | 21-06-2025] Transfer Task failed for 0xF9963FEe6C31B06bFf885E692e3aB281DeA13CD5: Request failed with status code 400
+[09:45:39 | 21-06-2025] Bridge Task failed for 0xF9963FEe6C31B06bFf885E692e3aB281DeA13CD5: Request failed with status code 400
